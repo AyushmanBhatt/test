@@ -1,0 +1,5 @@
+{{#user}}
+Name: Ayushman Bhatt
+Skills: HTML, CSS, JS, Mongo DB, Express.js, React.js, Node.js, Tailwind CSS, Redux, Tensorflow, Next.js, Three.js, scikit-learn
+Email: ayushmanbhatt10@gmail.com
+{{/user}}
